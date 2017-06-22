@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 You're Everything.mp3";		
+f[2]	= "02 Lenore.mp3";		
+f[3]	= "03 Space Circus, Pt. 1.mp3";		
+f[4]	= "04 Friends.mp3";		
+f[5]	= "05 Night Streets.mp3";		
+f[6]	= "06 Children's Song No. 15.mp3";		
+f[7]	= "07 Spain.mp3";		
+f[8]	= "08 Interplay.mp3";		
+f[9]	= "09 Nite Sprite.mp3";		
+f[10]	= "10 Light as a Feather.mp3";		
+f[11]	= "11 Tweedle Dee.mp3";		
+f[12]	= "12 Wind Danse.mp3";		
+f[13]	= "13 My Spanish Heart.mp3";		
+f[14]	= "14 Captain Marvel.mp3";		
